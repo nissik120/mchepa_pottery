@@ -1,0 +1,1 @@
+import{H as n}from"#entry";const i=()=>{const t=n("authStatus",()=>!1);function u(a,e){a==="admin@mchepa.com"&&e==="123"||a==="nissi@gmail.com"&&e==="password"?t.value=!0:t.value=!1}function s(){t.value=!1}return{authStatus:t,handleAuthentication:u,handleLogout:s}};export{i as u};
