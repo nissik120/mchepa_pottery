@@ -1,0 +1,1 @@
+import{A as r,a as t,d as s,b as n}from"#entry";const c={},o={class:"flex justify-center items-center"};function a(d,e){return n(),t("div",o,[...e[0]||(e[0]=[s("p",null,"Order Failed...",-1)])])}const f=r(c,[["render",a]]);export{f as default};

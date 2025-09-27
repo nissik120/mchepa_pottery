@@ -1,0 +1,1 @@
+import{A as s,a as t,d as c,b as n}from"#entry";const r={},o={class:"flex text-center justify-center items-center"};function a(f,e){return n(),t("div",o,[...e[0]||(e[0]=[c("p",null,"Successful",-1)])])}const u=s(r,[["render",a]]);export{u as default};
