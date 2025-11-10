@@ -1,0 +1,1 @@
+import{_ as e}from"./DlAUqK2U.js";import{a as r,b as o,a2 as a}from"#entry";const s={},c={class:"flex flex-col min-h-screen bg-pottery-light-bg text-pottery-light-text dark:bg-pottery-dark-bg dark:text-pottery-dark-text"};function n(t,l){return o(),r("div",c,[a(t.$slots,"default")])}const i=e(s,[["render",n]]);export{i as default};
